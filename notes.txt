@@ -1,0 +1,3 @@
+scale to screen
+add second level
+add theo animations when he gets hit
